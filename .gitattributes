@@ -1,1 +1,2 @@
 *.mp4 filter=lfs diff=lfs merge=lfs -text
+GUI编辑器简单使用例子[[:space:]]-[[:space:]]副本.txt filter=lfs diff=lfs merge=lfs -text
